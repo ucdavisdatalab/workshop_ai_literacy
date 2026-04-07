@@ -9,11 +9,12 @@ project:
 book:
   # Metadata (fill this in):
   author:
-    - "YOUR_NAME"
-  title: "WORKSHOP_TITLE"
-  description: "Reader for the WORKSHOP_TITLE workshop."
-  repo-url: "https://github.com/ucdavisdatalab/WORKSHOP_NAME"
-  site-url: "https://ucdavisdatalab.github.io/WORKSHOP_NAME"
+    - "Pamela Reynolds"
+    - "Carl Stahmer"
+  title: "AI Literacy"
+  description: "Reader for the AI Literacy workshop series."
+  repo-url: "https://github.com/ucdavisdatalab/workshop_ai_literacy"
+  site-url: "https://ucdavisdatalab.github.io/workshop_ai_literacy"
   chapters:
     - "index.qmd"
     # List your chapters in order here.
