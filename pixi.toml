@@ -1,10 +1,11 @@
 [workspace]
 authors = [
-  "YOUR_NAME <YOUR_EMAIL@ucdavis.edu>"
+  "Pamela Reynolds <plreynolds@ucdavis.edu>",
+  "Carl Stahmer <cstahmer@ucdavis.edu>"
 ]
-name = "workshop_WORKSHOP_NAME"
-description = "Reader for the WORKSHOP_TITLE workshop."
-version = "2026.fall.0"  # <year>.<quarter>.<revision #>
+name = "workshop_ai_literacy"
+description = "Reader for the AI Literacy workshop."
+version = "2026.spring.0"  # <year>.<quarter>.<revision #>
 
 channels = ["conda-forge"]
 platforms = ["linux-64", "osx-64", "osx-arm64", "win-64"]
